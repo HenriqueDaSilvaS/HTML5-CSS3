@@ -9,6 +9,6 @@ Curso de HTML5-CSS3/projetos
 <br>
 
 
-<a href="https://github.com/HenriqueDaSilvaS/HTML5-CSS3/blob/main/projetos/Potfolio1.html" target="blank">
+<a href="https://github.com/HenriqueDaSilvaS/HTML5-CSS3/blob/main/projetos/" target="blank">
     Portfolio Pessoal
 </a>
